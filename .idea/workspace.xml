@@ -7,6 +7,8 @@
     <list default="true" id="4f64615c-b7ce-4c20-bfac-2e3dcced2a1b" name="更改" comment="NLP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DL/NLP新闻分类赛-textCNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DL/NLP新闻分类赛-textCNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DL/word2vec_textCNN.pth" beforeDir="false" afterPath="$PROJECT_DIR$/DL/models/word2vec_textCNN.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DL/word2vec_textCNN_submit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DL/models/word2vec_textCNN_submit.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +32,12 @@
     &quot;assignee&quot;: &quot;Reggielang&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:Reggielang/AI.git",
-    "accountId": "71a83b90-62c6-4026-a176-e183d19715e2"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Reggielang/AI.git&quot;,
+    &quot;accountId&quot;: &quot;71a83b90-62c6-4026-a176-e183d19715e2&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/DL/mnist_dnn.py" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -71,6 +73,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\AI\DL" />
       <recent name="E:\AI\DL\data\yun_data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AI\DL\models" />
     </key>
   </component>
   <component name="RunManager">
@@ -126,6 +131,7 @@
       <workItem from="1737443772977" duration="6282000" />
       <workItem from="1737497845591" duration="615000" />
       <workItem from="1737498482531" duration="9647000" />
+      <workItem from="1737584018027" duration="3164000" />
     </task>
     <servers />
   </component>
