@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f64615c-b7ce-4c20-bfac-2e3dcced2a1b" name="更改" comment="NLP">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DL/NLP新闻分类赛-RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DL/NLP新闻分类赛-RNN.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +131,8 @@
       <workItem from="1737498482531" duration="9647000" />
       <workItem from="1737584018027" duration="18902000" />
       <workItem from="1737679601820" duration="12135000" />
+      <workItem from="1739149431943" duration="16318000" />
+      <workItem from="1739257123020" duration="6062000" />
     </task>
     <servers />
   </component>
