@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f64615c-b7ce-4c20-bfac-2e3dcced2a1b" name="更改" comment="NLP">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4f64615c-b7ce-4c20-bfac-2e3dcced2a1b" name="更改" comment="NLP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,6 +130,7 @@
       <workItem from="1737679601820" duration="12135000" />
       <workItem from="1739149431943" duration="16318000" />
       <workItem from="1739257123020" duration="6062000" />
+      <workItem from="1741661325758" duration="376000" />
     </task>
     <servers />
   </component>
@@ -144,6 +142,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="NLP" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AI$chat_history_config.coverage" NAME="chat_history_config 覆盖结果" MODIFIED="1741578585260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
+    <SUITE FILE_PATH="coverage/AI$tools_wikipedia.coverage" NAME="tools_wikipedia 覆盖结果" MODIFIED="1741592960398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools_integrate" />
+    <SUITE FILE_PATH="coverage/AI$agent_tools_memory_store.coverage" NAME="agent_tools_memory_store 覆盖结果" MODIFIED="1741596698018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-agent/langchain-agent" />
+    <SUITE FILE_PATH="coverage/AI$tools_async.coverage" NAME="tools_async 覆盖结果" MODIFIED="1741591160859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools" />
     <SUITE FILE_PATH="coverage/AI$mnist_dnn.coverage" NAME="mnist_dnn 覆盖结果" MODIFIED="1737119943639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL" />
+    <SUITE FILE_PATH="coverage/AI$agent_tools_run.coverage" NAME="agent_tools_run 覆盖结果" MODIFIED="1741596353153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-agent/langchain-agent" />
+    <SUITE FILE_PATH="coverage/AI$json_output_parser.coverage" NAME="json_output_parser 覆盖结果" MODIFIED="1741588885060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-transfer/langchain-transfer/output-parser" />
+    <SUITE FILE_PATH="coverage/AI$chatbot_summarize_history.coverage" NAME="chatbot_summarize_history 覆盖结果" MODIFIED="1741587837385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
+    <SUITE FILE_PATH="coverage/AI$json_output_parser_stream.coverage" NAME="json_output_parser_stream 覆盖结果" MODIFIED="1741589012348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-transfer/langchain-transfer/output-parser" />
+    <SUITE FILE_PATH="coverage/AI$tools_decorator.coverage" NAME="tools_decorator 覆盖结果" MODIFIED="1741591024358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools" />
+    <SUITE FILE_PATH="coverage/AI$structured_tools.coverage" NAME="structured_tools 覆盖结果" MODIFIED="1741591361635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools" />
+    <SUITE FILE_PATH="coverage/AI$chat_history_redis.coverage" NAME="chat_history_redis 覆盖结果" MODIFIED="1741578772704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
+    <SUITE FILE_PATH="coverage/AI$chatbot_clear_history.coverage" NAME="chatbot_clear_history 覆盖结果" MODIFIED="1741587633656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
+    <SUITE FILE_PATH="coverage/AI$tools_transfer.coverage" NAME="tools_transfer 覆盖结果" MODIFIED="1741591147106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools" />
+    <SUITE FILE_PATH="coverage/AI$toolkit_sqlite.coverage" NAME="toolkit_sqlite 覆盖结果" MODIFIED="1741593196804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools_integrate" />
+    <SUITE FILE_PATH="coverage/AI$doc_chat.coverage" NAME="doc_chat 覆盖结果" MODIFIED="1741660055605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-rag" />
+    <SUITE FILE_PATH="coverage/AI$chat_history_memory.coverage" NAME="chat_history_memory 覆盖结果" MODIFIED="1741576967498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
+    <SUITE FILE_PATH="coverage/AI$multimode.coverage" NAME="multimode 覆盖结果" MODIFIED="1741588308767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-transfer/langchain-transfer/multimode" />
+    <SUITE FILE_PATH="coverage/AI$multimode_image_base64.coverage" NAME="multimode_image_base64 覆盖结果" MODIFIED="1741588478787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-transfer/langchain-transfer/multimode" />
+    <SUITE FILE_PATH="coverage/AI$tools_retriever.coverage" NAME="tools_retriever 覆盖结果" MODIFIED="1741594789423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-agent/langchain-agent" />
   </component>
 </project>
