@@ -1,50 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f64615c-b7ce-4c20-bfac-2e3dcced2a1b" name="更改" comment="NLP">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIagent/langchain-rag/langchain-rag/doc_chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/AIagent/langchain-rag/langchain-rag/doc_chat.py" afterDir="false" />
+    <list default="true" id="57c90d42-d7ac-4fcb-a2f2-84f20495eed5" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/LLaMA-Factory/src/llamafactory/extras/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/LLaMA-Factory/src/llamafactory/extras/constants.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Jupyter Notebook" />
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Reggielang&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:Reggielang/AI.git&quot;,
-    &quot;accountId&quot;: &quot;71a83b90-62c6-4026-a176-e183d19715e2&quot;
-  }
-}</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/DL/mnist_dnn.py" root0="SKIP_HIGHLIGHTING" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 7
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2rkzZm0p6gkxPc9FZvKMmFsur1q" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectId" id="2uAVavzxBJRC6od9nebJCcpzD4B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -53,195 +26,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Python.agent_workflow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.doc_chat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.langgraph_base.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mnist_dnn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rag.executor&quot;: &quot;Run&quot;,
-    &quot;Python.streamlit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/AI/AIagent/langgraph-rag&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\AI\AIagent" />
-      <recent name="E:\AI\DL" />
-      <recent name="E:\AI\DL\data\yun_data" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\AI\AIagent\langgraph-rag1" />
-      <recent name="E:\AI\DL\models" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.rag">
-    <configuration name="agent_workflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIagent/langgraph-agent/langgraph-agent" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIagent/langgraph-agent/langgraph-agent/agent_workflow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="doc_chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIagent/langchain-rag/langchain-rag" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIagent/langchain-rag/langchain-rag/doc_chat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="langgraph_base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIagent/langgraph-base/langgraph-base" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIagent/langgraph-base/langgraph-base/langgraph_base.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="rag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIagent/langgraph-rag" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIagent/langgraph-rag/rag.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="streamlit" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="AI" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="D:\miniconda3" />
-      <option name="WORKING_DIRECTORY" value="D:\AI\AIagent\langgraph-rag" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="streamlit" />
-      <option name="PARAMETERS" value="run rag.py" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="true" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIagent/langchain-rag" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIagent/langchain-rag/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.streamlit" />
-      <item itemvalue="Python.rag" />
-      <item itemvalue="Python.agent_workflow" />
-      <item itemvalue="Python.doc_chat" />
-      <item itemvalue="Python.langgraph_base" />
-      <item itemvalue="Python.test" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.rag" />
-        <item itemvalue="Python.agent_workflow" />
-        <item itemvalue="Python.langgraph_base" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.doc_chat" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -253,61 +45,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="4f64615c-b7ce-4c20-bfac-2e3dcced2a1b" name="更改" comment="" />
-      <created>1737117919075</created>
+      <changelist id="57c90d42-d7ac-4fcb-a2f2-84f20495eed5" name="更改" comment="" />
+      <created>1741691433716</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1737117919075</updated>
-      <workItem from="1737117920597" duration="8040000" />
-      <workItem from="1737126324328" duration="1196000" />
-      <workItem from="1737421412824" duration="3438000" />
-      <workItem from="1737442788096" duration="550000" />
-      <workItem from="1737443772977" duration="6282000" />
-      <workItem from="1737497845591" duration="615000" />
-      <workItem from="1737498482531" duration="9647000" />
-      <workItem from="1737584018027" duration="18902000" />
-      <workItem from="1737679601820" duration="12135000" />
-      <workItem from="1739149431943" duration="16318000" />
-      <workItem from="1739257123020" duration="6062000" />
-      <workItem from="1741661325758" duration="694000" />
-      <workItem from="1741662043099" duration="7878000" />
-      <workItem from="1741678905980" duration="3500000" />
-      <workItem from="1741682506027" duration="1149000" />
+      <updated>1741691433716</updated>
+      <workItem from="1741691435019" duration="153000" />
+      <workItem from="1741691616523" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="NLP" />
-    <option name="LAST_COMMIT_MESSAGE" value="NLP" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AI$rag.coverage" NAME="rag 覆盖结果" MODIFIED="1741683075340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langgraph-rag" />
-    <SUITE FILE_PATH="coverage/AI$agent_tools_run.coverage" NAME="agent_tools_run 覆盖结果" MODIFIED="1741596353153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-agent/langchain-agent" />
-    <SUITE FILE_PATH="coverage/AI$chatbot_summarize_history.coverage" NAME="chatbot_summarize_history 覆盖结果" MODIFIED="1741587837385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
-    <SUITE FILE_PATH="coverage/AI$json_output_parser_stream.coverage" NAME="json_output_parser_stream 覆盖结果" MODIFIED="1741589012348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-transfer/langchain-transfer/output-parser" />
-    <SUITE FILE_PATH="coverage/AI$tools_decorator.coverage" NAME="tools_decorator 覆盖结果" MODIFIED="1741591024358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools" />
-    <SUITE FILE_PATH="coverage/AI$langgraph_base.coverage" NAME="langgraph_base 覆盖结果" MODIFIED="1741677819642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langgraph-base/langgraph-base" />
-    <SUITE FILE_PATH="coverage/AI$structured_tools.coverage" NAME="structured_tools 覆盖结果" MODIFIED="1741591361635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools" />
-    <SUITE FILE_PATH="coverage/AI$test.coverage" NAME="test 覆盖结果" MODIFIED="1741665084657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-rag" />
-    <SUITE FILE_PATH="coverage/AI$chat_history_redis.coverage" NAME="chat_history_redis 覆盖结果" MODIFIED="1741578772704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
-    <SUITE FILE_PATH="coverage/AI$chatbot_clear_history.coverage" NAME="chatbot_clear_history 覆盖结果" MODIFIED="1741587633656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
-    <SUITE FILE_PATH="coverage/AI$toolkit_sqlite.coverage" NAME="toolkit_sqlite 覆盖结果" MODIFIED="1741593196804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools_integrate" />
-    <SUITE FILE_PATH="coverage/AI$doc_chat.coverage" NAME="doc_chat 覆盖结果" MODIFIED="1741662947788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-rag/langchain-rag" />
-    <SUITE FILE_PATH="coverage/AI$streamlit.coverage" NAME="streamlit 覆盖结果" MODIFIED="1741682238950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:\AI\AIagent\langgraph-rag" />
-    <SUITE FILE_PATH="coverage/AI$multimode.coverage" NAME="multimode 覆盖结果" MODIFIED="1741588308767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-transfer/langchain-transfer/multimode" />
-    <SUITE FILE_PATH="coverage/AI$chat_history_config.coverage" NAME="chat_history_config 覆盖结果" MODIFIED="1741578585260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
-    <SUITE FILE_PATH="coverage/AI$tools_wikipedia.coverage" NAME="tools_wikipedia 覆盖结果" MODIFIED="1741592960398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools_integrate" />
-    <SUITE FILE_PATH="coverage/AI$agent_tools_memory_store.coverage" NAME="agent_tools_memory_store 覆盖结果" MODIFIED="1741596698018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-agent/langchain-agent" />
-    <SUITE FILE_PATH="coverage/AI$tools_async.coverage" NAME="tools_async 覆盖结果" MODIFIED="1741591160859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools" />
-    <SUITE FILE_PATH="coverage/AI$mnist_dnn.coverage" NAME="mnist_dnn 覆盖结果" MODIFIED="1737119943639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DL" />
-    <SUITE FILE_PATH="coverage/AI$json_output_parser.coverage" NAME="json_output_parser 覆盖结果" MODIFIED="1741588885060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-transfer/langchain-transfer/output-parser" />
-    <SUITE FILE_PATH="coverage/AI$tools_transfer.coverage" NAME="tools_transfer 覆盖结果" MODIFIED="1741591147106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-tools/tools" />
-    <SUITE FILE_PATH="coverage/AI$agent_workflow.coverage" NAME="agent_workflow 覆盖结果" MODIFIED="1741680235049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langgraph-agent/langgraph-agent" />
-    <SUITE FILE_PATH="coverage/AI$chat_history_memory.coverage" NAME="chat_history_memory 覆盖结果" MODIFIED="1741576967498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-message" />
-    <SUITE FILE_PATH="coverage/AI$multimode_image_base64.coverage" NAME="multimode_image_base64 覆盖结果" MODIFIED="1741588478787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-transfer/langchain-transfer/multimode" />
-    <SUITE FILE_PATH="coverage/AI$tools_retriever.coverage" NAME="tools_retriever 覆盖结果" MODIFIED="1741594789423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIagent/langchain-agent/langchain-agent" />
   </component>
 </project>
