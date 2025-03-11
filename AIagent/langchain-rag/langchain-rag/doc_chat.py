@@ -28,7 +28,6 @@ if not uploaded_files:
     st.info("请先上传按TXT文档。")
     st.stop()
 
-
 # 实现检索器
 @st.cache_resource(ttl="1h")
 def configure_retriever(uploaded_files):
