@@ -1,0 +1,8 @@
+streamlit==1.37.0
+python-docx
+PyPDF2
+faiss-cpu
+langchain
+langchain-core
+langchain-community
+langchain-openai
