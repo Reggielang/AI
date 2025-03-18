@@ -72,10 +72,10 @@ documents = [
 
 retriever = AnimalRetriever(documents=documents, k=1)
 
-# 测试同步方法
-print("同步方法测试:")
-print(retriever.invoke("宠物"))
-print(retriever.batch(["猫", "兔子"]))
+# # 测试同步方法
+# print("同步方法测试:")
+# print(retriever.invoke("宠物"))
+# print(retriever.batch(["猫", "兔子"]))
 
 
 async def ainvoke():

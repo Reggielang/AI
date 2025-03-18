@@ -34,7 +34,7 @@ class LoggingHandler(BaseCallbackHandler):
 callbacks = [LoggingHandler()]
 
 # 实例化一个ChatOpenAI对象，使用gpt-4模型
-llm = ChatOpenAI(model="gpt-4")
+llm = ChatOpenAI(model="gpt-3.5-turbo")
 
 # 创建一个聊天提示模板，模板内容为“What is 1 + {number}?”
 prompt = ChatPromptTemplate.from_template("What is 1 + {number}?")

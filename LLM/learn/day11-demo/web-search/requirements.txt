@@ -1,0 +1,8 @@
+streamlit<1.30
+streamlit_chat==0.0.2.2
+wikipedia
+pandas
+langchain
+openai
+pandas
+numpy

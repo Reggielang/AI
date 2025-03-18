@@ -59,11 +59,11 @@ with open("./meow.txt", "w", encoding="utf-8") as f:
     f.write(quality_content)
 loader = CustomDocumentLoader("./meow.txt")
 
-## 测试延迟加载接口
-for doc in loader.lazy_load():
-    print()
-    print(type(doc))
-    print(doc)
+# ## 测试延迟加载接口
+# for doc in loader.lazy_load():
+#     print()
+#     print(type(doc))
+#     print(doc)
 
 
 async def alazy():
@@ -73,7 +73,7 @@ async def alazy():
         print(doc)
 
 # 测试异步实现
-#asyncio.run(alazy())
+asyncio.run(alazy())
 
 # load() 在诸如 Jupyter Notebook 之类的交互式环境中很有用。
 # 在生产代码中避免使用它，因为急切加载假定所有内容都可以放入内存中，
